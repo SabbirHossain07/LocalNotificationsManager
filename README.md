@@ -44,7 +44,7 @@ LocalNotificationsManager/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/LocalNotificationsManager.git
+git clone https://github.com/SabbirHossain07/LocalNotificationsManager.git
 cd LocalNotificationsManager
 ```
 
@@ -139,7 +139,7 @@ This project is open source and available under the MIT License.
 
 **Sopnil Sohan**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@SabbirHossain07](https://github.com/SabbirHossain07)
 
 ## 🙏 Acknowledgments
 
